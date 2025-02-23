@@ -1,0 +1,8 @@
+
+cd "TestFolder"
+echo "Current Directory Changed"
+
+write "new.txt" "Hello is a new file."
+echo "File created inside TestFolder."
+
+ls

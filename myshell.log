@@ -1,0 +1,34 @@
+[1740342223] ERROR: Runtime error in script.
+[1740342381] ERROR: Usage: cd <directory>
+[1740343004] ERROR: Unknown command: MyShell>
+[1740343063] ERROR: Command failed: g++
+[1740343086] ERROR: Command failed: g++
+[1740343148] ERROR: Command failed: icacls
+[1740343250] ERROR: Command failed: icacls
+[1740343277] ERROR: Command failed: icacls
+[1740343288] ERROR: Command failed: g++
+[1740343653] ERROR: Command failed: g++
+[1740343714] ERROR: Unknown command: MyShell>
+[1740343721] ERROR: Usage: cd <directory>
+[1740344233] ERROR: Command failed: g++
+[1740344295] ERROR: Command failed: g++
+[1740344327] ERROR: Command failed: icacls
+[1740344443] ERROR: Unknown command: g++
+[1740344596] ERROR: Unknown command: g++
+[1740344604] ERROR: Unknown command: g++
+[1740346015] ERROR: Command failed: $greeting = "Welcome to MyShell!"
+[1740346306] ERROR: Usage: cd <directory>
+[1740346328] ERROR: Command failed: exec cd 
+[1740346332] ERROR: Usage: cd <directory>
+[1740346363] ERROR: Command failed: mk dir new
+[1740346717] ERROR: Error creating directory: "TestFolder"
+[1740346717] ERROR: Directory not found: "TestFolder"
+[1740346717] ERROR: Command failed: write "newfile.txt" "Hello, this is a new file."
+[1740346977] ERROR: Error creating directory: "TestFolder"
+[1740346977] ERROR: Directory not found: "TestFolder"
+[1740347403] ERROR: Usage: run <script.mys>
+[1740348092] ERROR: Unable to open script file: myscript.mys
+[1740348106] ERROR: Error creating directory: "TestFolder"
+[1740348106] ERROR: Directory not found: "TestFolder"
+[1740348195] ERROR: Directory not found: "TestFolder"
+[1740348216] ERROR: Directory not found: "TestFolder"
