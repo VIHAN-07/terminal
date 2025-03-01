@@ -1,8 +1,6 @@
-
-cd "TestFolder"
-echo "Current Directory Changed"
-
-write "new.txt" "Hello is a new file."
-echo "File created inside TestFolder."
-
+echo "Starting script..."
+mkdir "MyFolder"
+cd "MyFolder"
+write "test.txt" "This is a test file."
+echo "File created!"
 ls

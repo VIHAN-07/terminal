@@ -1,0 +1,3 @@
+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
+ g++ shell_withaiintegration.cpp -o myshell2.exe -lcurl -std=c++17
+ set GROQ_API_KEY your_api_key_here
